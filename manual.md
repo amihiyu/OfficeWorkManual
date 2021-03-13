@@ -44,3 +44,4 @@ undoのテスト
 次の行を削除
 終わり
 
+commit test
